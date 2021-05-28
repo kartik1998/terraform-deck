@@ -1,3 +1,3 @@
 ## Terraform
 
-* HCL : Declarative language
+- HCL : Declarative language
