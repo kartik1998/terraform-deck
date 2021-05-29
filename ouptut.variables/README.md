@@ -1,0 +1,1 @@
+* Use `terraform output` to print all output variables
