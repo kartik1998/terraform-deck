@@ -11,7 +11,7 @@
 5. [resource.attributes](https://github.com/kartik1998/dotterraform/tree/master/resource.attributes)
 6. [output.variables](https://github.com/kartik1998/dotterraform/tree/master/output.variables)
 7. [terraform.commands](https://github.com/kartik1998/dotterraform/tree/master/terraform.commands)
-7. [terraform.lifecycle.rules](https://github.com/kartik1998/dotterraform/tree/master/terraform.lifecycle.rules)
+8. [terraform.lifecycle.rules](https://github.com/kartik1998/dotterraform/tree/master/terraform.lifecycle.rules)
 
 ## Cheatsheet 
 
