@@ -9,3 +9,4 @@
 3. [input.variables](https://github.com/kartik1998/dotterraform/tree/master/input.variables)
 4. [create.ec2](https://github.com/kartik1998/dotterraform/tree/master/create.ec2)
 5. [resource.attributes](https://github.com/kartik1998/dotterraform/tree/master/resource.attributes)
+6. [output.variables](https://github.com/kartik1998/dotterraform/tree/master/output.variables)
