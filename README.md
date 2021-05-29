@@ -13,6 +13,7 @@
 7. [terraform.commands](https://github.com/kartik1998/dotterraform/tree/master/terraform.commands)
 8. [terraform.lifecycle.rules](https://github.com/kartik1998/dotterraform/tree/master/terraform.lifecycle.rules)
 9. [terraform.datasources](https://github.com/kartik1998/dotterraform/tree/master/terraform.datasources)
+10. [terraform.metaarguements](https://github.com/kartik1998/dotterraform/tree/master/terraform.metaarguements)
 
 ## Cheatsheet 
 
