@@ -12,6 +12,7 @@
 6. [output.variables](https://github.com/kartik1998/dotterraform/tree/master/output.variables)
 7. [terraform.commands](https://github.com/kartik1998/dotterraform/tree/master/terraform.commands)
 8. [terraform.lifecycle.rules](https://github.com/kartik1998/dotterraform/tree/master/terraform.lifecycle.rules)
+9. [terraform.datasources](https://github.com/kartik1998/dotterraform/tree/master/terraform.datasources)
 
 ## Cheatsheet 
 
