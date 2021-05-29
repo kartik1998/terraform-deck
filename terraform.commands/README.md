@@ -1,2 +1,5 @@
-* `terraform validate`: to validate configuration files
-* `terraform fmt`: to format the terraform files to increase redability
+- `terraform init`: initialize plugins
+- `terraform plan`: View run structure of configurations
+- `terraform apply`: Run \*.tf files
+- `terraform validate`: to validate configuration files
+- `terraform fmt`: to format the terraform files to increase redability

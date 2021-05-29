@@ -1,4 +1,4 @@
 resource "aws_instance" "webserver" {
-  ami = var.ami
+  ami           = var.ami
   instance_type = var.instance_type
 }
