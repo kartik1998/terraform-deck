@@ -1,0 +1,1 @@
+* Datasource allow terraform to read attributes which are provisioned outside it's control. For example in this case we will be reading a file dogs.txt which isn't provisioned by terraform.
