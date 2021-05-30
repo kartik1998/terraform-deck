@@ -16,6 +16,7 @@
 9. [terraform.datasources](https://github.com/kartik1998/dotterraform/tree/master/terraform.datasources)
 10. [terraform.metaarguements](https://github.com/kartik1998/dotterraform/tree/master/terraform.metaarguements)
 11. [aws.iam](https://github.com/kartik1998/dotterraform/tree/master/aws.iam)
+12. [aws.s3](https://github.com/kartik1998/dotterraform/tree/master/aws.s3)
 
 ## Cheatsheet 
 
