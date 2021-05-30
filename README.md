@@ -15,6 +15,7 @@
 8. [terraform.lifecycle.rules](https://github.com/kartik1998/dotterraform/tree/master/terraform.lifecycle.rules)
 9. [terraform.datasources](https://github.com/kartik1998/dotterraform/tree/master/terraform.datasources)
 10. [terraform.metaarguements](https://github.com/kartik1998/dotterraform/tree/master/terraform.metaarguements)
+11. [aws.iam](https://github.com/kartik1998/dotterraform/tree/master/aws.iam)
 
 ## Cheatsheet 
 
