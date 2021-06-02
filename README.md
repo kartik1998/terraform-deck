@@ -2,6 +2,7 @@
 
 - Installtion url: [terraform.download](https://www.terraform.io/downloads.html)
 - HCL : Declarative language
+- Terraform AWS docs: [terraform.aws.docs](https://learn.hashicorp.com/tutorials/terraform/aws-build?in=terraform/aws-get-started)
 
 ## Index
 
